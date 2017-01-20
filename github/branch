@@ -1,1 +1,4 @@
 git checkout -b <branch_name>
+# delete branch
+git branch -d dev
+git push origin :dev
